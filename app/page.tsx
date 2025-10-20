@@ -20,8 +20,7 @@ const HomePage = () => {
       <Navbar />
       
       <main className="relative">
-        {/* Logo at bottom left */}
-        <Logo />
+        
         
         {/* Hero Section */}
         <section id="home" className="relative h-screen w-full flex items-center justify-center overflow-hidden bg-gray-950">
