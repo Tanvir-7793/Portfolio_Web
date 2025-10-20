@@ -66,9 +66,7 @@ export default function ContactParticleBackground() {
         move: {
           direction: "none" as const,
           enable: true,
-          outModes: {
-            default: "bounce"
-          },
+          outModes: "bounce" as const,
           random: false,
           speed: 2,
           straight: false,

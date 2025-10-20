@@ -114,7 +114,13 @@ const Experience = () => {
   };
 
   const lineVariants = {
-    hidden: { scaleY: 0 },
+    hidden: { 
+      scaleY: 0,
+      transition: {
+        duration: 1.5,
+        ease: "easeInOut"
+      }
+    },
     visible: { 
       scaleY: 1,
       transition: {
@@ -122,7 +128,7 @@ const Experience = () => {
         ease: "easeInOut"
       }
     }
-  };
+  } as const;
 
   const getTypeColor = (type: string) => {
     switch (type) {

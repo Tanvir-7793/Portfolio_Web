@@ -109,14 +109,21 @@ const Skills: React.FC = () => {
   };
 
   const skillVariants = {
-    hidden: { opacity: 0, scale: 0.8 },
+    hidden: { 
+      opacity: 0, 
+      scale: 0.8,
+      transition: {
+        duration: 0.3
+      }
+    },
     visible: (i: number) => ({
       opacity: 1,
       scale: 1,
       transition: {
         delay: 0.1 + (i * 0.05),
-        type: "spring",
-        stiffness: 100
+        type: "spring" as const,
+        stiffness: 100,
+        damping: 10
       }
     })
   };
