@@ -143,7 +143,7 @@ export default function Navbar() {
               </nav>
               
               {/* Social links */}
-              <div className="flex space-x-6 ">
+              <div className="flex space-x-6 mb-8">
                 {[
                   { name: 'GitHub', url: 'https://github.com/Tanvir-7793', icon: <FaGithub className="w-5 h-5" /> },
                                     { name: 'LinkedIn', url: 'https://www.linkedin.com/in/tanvir-mujawar-7573012aa/', icon: <FaLinkedin className="w-5 h-5" /> },
