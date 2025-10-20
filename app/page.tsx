@@ -37,7 +37,7 @@ const HomePage = () => {
             
             <h1 className="text-3xl md:text-5xl font-bold mb-6">Turning ideas into intelligent systems — from web apps to IoT prototypes powered by AI.</h1>
             <div className="text-xl md:text-xl text-gray-300 mb-8 min-h-10 font-sans">
-              <span className="font-light text-xl  ">Hi! I'm Tanvir - A Passionate</span>{' '}
+              <span className="font-light text-xl">Hi! I&apos;m Tanvir - A Passionate</span>{' '}
               <TypingEffect 
                 words={["Web Developer", "UI/UX Designer", "Problem Solver", "Tech Enthusiast","Defence Aspirant"]} 
                 typingSpeed={50}

@@ -170,7 +170,7 @@ const About = () => {
                 className="text-3xl font-bold text-white mb-4"
                 style={{ perspective: "1000px" }}
               >
-                Hello, I'm Tanvir! 👋
+                Hello, I&apos;m Tanvir! 👋
               </motion.h3>
               <motion.div
                 variants={textVariants}

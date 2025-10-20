@@ -2,7 +2,7 @@
 import Link from 'next/link';
 import { useState, useRef, useEffect } from 'react';
 import { PT_Serif } from 'next/font/google';
-import { FaGithub, FaLinkedin, FaTwitter, FaInstagram, FaFileDownload, FaTimes, FaExternalLinkAlt } from 'react-icons/fa';
+import { FaGithub, FaLinkedin, FaTwitter, FaInstagram, FaTimes, FaExternalLinkAlt } from 'react-icons/fa';
 import { SiLeetcode } from 'react-icons/si';
 
 const ptSerif = PT_Serif({

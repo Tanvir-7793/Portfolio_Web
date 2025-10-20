@@ -397,7 +397,7 @@ const Skills: React.FC = () => {
             Always Learning & Growing
           </h3>
           <p className="text-gray-300 max-w-3xl mx-auto text-lg">
-            I'm constantly exploring new technologies and frameworks to expand my skill set and stay up-to-date with the latest industry trends.
+            I&apos;m constantly exploring new technologies and frameworks to expand my skill set and stay up-to-date with the latest industry trends.
           </p>
         </motion.div>
       </div>

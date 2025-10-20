@@ -134,9 +134,9 @@ const Contact: React.FC = () => {
             variants={containerVariants}
           >
             <motion.div variants={itemVariants} className="space-y-2">
-              <h3 className="text-2xl font-bold text-white">Let's work together</h3>
+              <h3 className="text-2xl font-bold text-white">Let&apos;s work together</h3>
               <p className="text-gray-400">
-                I'm always open to discussing new projects, creative ideas or opportunities to be part of your visions.
+                I&apos;m always open to discussing new projects, creative ideas or opportunities to be part of your visions.
               </p>
             </motion.div>
 
