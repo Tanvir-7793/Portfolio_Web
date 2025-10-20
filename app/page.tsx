@@ -44,7 +44,7 @@ const HomePage = () => {
                 delayBetweenWords={1900}
               />
             </div>
-            <Link href="#projects">
+            <Link href="https://www.linkedin.com/in/tanvir-mujawar-7573012aa/">
             <button className="px-8 py-3 bg-blue-600 hover:bg-blue-700 rounded-lg text-lg font-medium transition-colors">
               View My Work
             </button>
