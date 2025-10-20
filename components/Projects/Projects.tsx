@@ -24,7 +24,7 @@ const projects = [
     title: 'Durgamata Mandir Trust',
     description: 'A comprehensive website for Panchapali Haud Durgamata Mandir Charitable Trust, Satara, dedicated to preserving cultural heritage and supporting religious/charitable activities. The platform serves as a spiritual and community center hub.',
     technologies: ['React', 'Tailwind CSS', 'Node.js', 'TypeScript', 'Hostinger'],
-    image: '/images/Project3.png',
+    image: '/images/project3.png',
     github: '#',
     demo: 'https://panchapalidurgamata.org/',
   },
