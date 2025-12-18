@@ -1,6 +1,6 @@
 # Tanvir Mujawar - Portfolio
 
-[![Live Demo](https://img.shields.io/badge/View-Live%20Demo-green?style=for-the-badge)](www.tanvirmujawar.me)
+[![Live Demo]](www.tanvirmujawar.me)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 Welcome to my personal portfolio website! This is a modern, responsive, and interactive portfolio built with Next.js, TypeScript, and Tailwind CSS. The website showcases my projects, skills, and provides a way to get in touch with me.
